@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hriday330
+- 👋 Hi, I’m Hriday!
 - 👀 I’m interested in Web Development, Machine Learning & Data Science
-- 🌱 I’m currently learning: JavaScript
-- 💞️ I know: Python, HTML, CSS, Django
+- 💡 I’m currently learning: MySQL
+- 🧠 I know: Python, HTML, CSS, JS, MERN, C++,Java
 - 📫 How to reach me: email: hriday2004@outlook.com 
 
 <!---
